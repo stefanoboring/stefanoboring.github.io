@@ -23,19 +23,9 @@ analytics: # Google Analytics
 # Build Settings
 markdown: kramdown
 plugins:
-  - jekyll-sitemap
-  - jemoji
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
-#https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#page-configuration
-pagination:
-  enabled: true
-  collection: 'posts'
-  per_page: 20
-  permalink: "/page/:num"
-  indexpage: 'index'
-  category: 'posts'
-  sort_reverse: true
+paginate: 10
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
