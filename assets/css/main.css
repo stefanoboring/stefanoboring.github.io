@@ -1,3 +1,6 @@
+---
+backcolor: "#f73f3f"
+---
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
@@ -97,7 +100,7 @@ pre {
  * 2. Remove gaps in links underline in iOS 8+ and Safari 8+.
  */
 a {
-    color: #f73f3f;
+    color: {{ page.backcolor }};
     text-decoration: none;
   background-color: transparent;
   /* 1 */
@@ -1486,7 +1489,7 @@ a.newer-posts:hover {
 }
 
 .sidebar-category {
-    background-color: #f73f3f;
+    background-color: {{ page.backcolor }};
     margin: 10px;
 }
 
@@ -1497,9 +1500,7 @@ a.newer-posts:hover {
     }
 
 img + em {
-    color: #f73f3f;
-/*    font-style: italic;*/
-/*    font-weight: normal;*/
+    color: {{ page.backcolor }};
     display: block;
 }
 
