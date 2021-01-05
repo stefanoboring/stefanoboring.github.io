@@ -1,1 +1,59 @@
-theme: jekyll-theme-minimal
+title: Stefano boring
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "/stefanoboring" # the subpath of your site, e.g. /blog
+url: "https://boringandsad.githubio" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author Settings
+author: Stefano Boring # add your name
+author-img: stefano-boring.jpg # add your photo
+about-author: Stefano Boring è una linguista che lavora come UX designer. Crede che il genere sia un costrutto culturale pericolosissimo e non si dichiara né donna né uomo. 
+social-email: stefano.boring@gmail.com # add your Email address
+social-instagram: ester_satomi
+
+# Disqus
+discus-identifier: stefanoboring
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jemoji
+  - jekyll-paginate-v2
+
+#https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#page-configuration
+pagination:
+  enabled: true
+  collection: 'posts'
+  per_page: 20
+  permalink: "/page/:num"
+  indexpage: 'index'
+  category: 'posts'
+  sort_reverse: true
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+
+autopages:
+  enabled: true
+  categories:
+    layouts:
+      - 'cat.html'
+    title: 'Posts in category :cat'
+    permalink: '/category/:cat'
+    slugify:
+      mode: 'default'
+      case: true
+  tags:
+    enabled: false
+  collections:
+    enabled: false
+
+
+sass:
+    sass_dir: css/scss
