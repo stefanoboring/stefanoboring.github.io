@@ -17,7 +17,11 @@ tags: [tag1, tag2, tagN]
 category: art
 ---
 
-Descrizione del lavoro
+Qui va il testo dell'articolo.
+
+Paragrafo 1
+
+Paragrafo 2
 ```
 
 * creare una directory all'interno di `assets/img` nominandola con il nome del progetto (es. _projectdir_): https://github.com/boringandsad/stefanoboring/tree/main/assets/img 
