@@ -19,3 +19,7 @@ category: art
 
 Descrizione del lavoro
 ```
+
+* creare una directory all'interno di `assets/img` nominandola con il nome del progetto (es. _projectdir_): https://github.com/boringandsad/stefanoboring/tree/main/assets/img 
+* caricare all'interno della directory un file nominato `banner.jpg`. Il file verra' utilizzato nella preview dell'articolo;
+* e' possibile aggiungere altre immagini che poi potranno essere utilizzate all'interno del corpo dell'articolo.
