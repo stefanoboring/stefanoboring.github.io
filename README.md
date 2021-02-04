@@ -1,8 +1,12 @@
 # istruzioni per aggiungere un post
 
-Per creare un nuovo post, creare un nuovo file nella directory `_post`
+Per creare un nuovo post, creare un nuovo file nella directory `_post`: https://github.com/boringandsad/stefanoboring/tree/main/_posts
 
-Utilizzare questo contenuto come template:
+Selezionare dal menu in alto a destra _Add file_ e poi _Create new file_.
+
+Dare un nome al file. *Molto importante*: il nome del file deve avere la forma `YYYY-MM-DD-titolo.md` altrimenti non verra' considerato.
+
+Popolare il contenuto del file utilizzando questo come template:
 
 ```
 ---
