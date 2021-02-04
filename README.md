@@ -4,6 +4,7 @@ Per creare un nuovo post, creare un nuovo file nella directory `_post`
 
 Utilizzare questo contenuto come template:
 
+```
 ---
 layout: post
 title: Titolo
@@ -15,3 +16,4 @@ category: art
 ---
 
 Descrizione del lavoro
+```
