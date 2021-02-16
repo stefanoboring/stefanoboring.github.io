@@ -6,7 +6,7 @@ description: "Morte cardiocircolatoria, morte cerebrale, persona organismo"
 img: morte.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [morte, yanez]
-category: articolo
+category: Testuale
 ---
 Originalmente uscito su [Yanez Magazine](https://www.yanezmagazine.com/morte-come-riconoscerla/).
 
