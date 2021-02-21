@@ -4,7 +4,7 @@ title: Synecdoche2020
 date: 2020-08-27
 description: Video
 collaboration: Boring&Sad
-img: projectdir/banner.jpg # Add image post (optional)
+img: synecdoche/banner.png # Add image post (optional)
 tags: [tag1, tag2, tagN]
 category: Visuale
 ---
