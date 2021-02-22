@@ -22,4 +22,4 @@ Quando ho perso mio cugino, giocatore di pallacanestro, trascorrevo le giornate 
 La vera essenza di Playthevoid sono i campi periferici, privati o pubblici, a volte semplici cerchi appesi a un muro, canestri lontani dal mondo di aspettative e successo dei tornei ufficiali. Campi dove l’assenza è una costante  e la soluzione per fronteggiarla rifugge dal culto di se stessi.
 Se vuoi partecipare a questa riflessione  spediscimi pure una foto.
 
-Playthevoid è stato esposto al MozFest nel 2018 [](https://issuu.com/mozfest/docs/mozillafestival_art_data_online_cat)
+Playthevoid è stato esposto al MozFest nel 2018 [Catalogo](https://issuu.com/mozfest/docs/mozillafestival_art_data_online_cat).
