@@ -5,7 +5,7 @@ date: 2021-02-28 13:32:20 +0300
 description: Foto
 img: genderedbrain/banner.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [neuroscienze, genere, cervello]
+tags: [neuroscienze, genere, cervello, stefanoboring]
 category: Visuale
 ---
 

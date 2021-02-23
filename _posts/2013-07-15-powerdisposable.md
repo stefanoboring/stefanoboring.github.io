@@ -5,7 +5,7 @@ date: 2013-07-15 13:32:20 +0300
 description: Foto
 img: powerdisposable/banner.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [violence, disposable, violenza, rapporti di forza, dipendenza affettiva, addiction]
+tags: [violence, stefanoboring, rapporti di forza, dipendenza affettiva, addiction]
 category: Visuale
 ---
 

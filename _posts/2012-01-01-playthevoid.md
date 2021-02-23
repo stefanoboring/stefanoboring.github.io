@@ -6,7 +6,7 @@ description: Collezione di foto
 collaboration:
 img: playthevoid/banner.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [collectiveart, artepubblica, basket]
+tags: [collectiveart, artepubblica, basket, stefanoboring]
 category: Visuale
 ---
 

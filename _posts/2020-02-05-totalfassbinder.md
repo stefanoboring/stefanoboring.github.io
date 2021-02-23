@@ -5,7 +5,7 @@ date: 2020-02-05 13:32:20 +0300
 description: "Narcisista, sadico, sperduto: l'esistenza come cinema di se stesso"
 img: totalfassbinder/banner.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [yanezmagazine, fassbinder, rapporti di forza]
+tags: [yanezmagazine, fassbinder, rapporti di forza, stefanoboring]
 category: Testuale
 ---
 

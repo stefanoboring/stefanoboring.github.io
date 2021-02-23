@@ -5,7 +5,7 @@ date: 2021-01-12 13:32:20 +0300
 description: "Denunciare è un dovere. O no?"
 img: whistleblowing/banner.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [yanez, whistleblowing, snowden, manning]
+tags: [yanezmagazine, whistleblowing, snowden, manning, stefanoboring]
 category: Testuale
 ---
 
