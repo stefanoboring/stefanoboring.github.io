@@ -9,8 +9,8 @@ tags: [neuroscienze, genere, cervello]
 category: Visuale
 ---
 
-"Esistere per sanguinare, sono perché sanguino. Se non hai il mio sangue, non sei come me. Il suo sangue è violenza, il mio è  sempre ferita. 
-Il sangue che mi imbratta, il sangue che non fluisce, il sangue che mi determina. Se è destinata a sanguinare, compreremo un fiocco rosa e tante bamboline. Sarà buona e altruista, perché le femmine si sa sono più pazienti e più sensibili. Portata ad accogliere, a comprendere, a consolare. Il mio sangue è la mia mente. Il mio sangue è il mio destino.” Trappola bugiarda.  Recinto in cui non voglio stare.
+_"Esistere per sanguinare, sono perché sanguino. Se non hai il mio sangue, non sei come me. Il suo sangue è violenza, il mio è  sempre ferita. 
+Il sangue che mi imbratta, il sangue che non fluisce, il sangue che mi determina. Se è destinata a sanguinare, compreremo un fiocco rosa e tante bamboline. Sarà buona e altruista, perché le femmine si sa sono più pazienti e più sensibili. Portata ad accogliere, a comprendere, a consolare. Il mio sangue è la mia mente. Il mio sangue è il mio destino.” Trappola bugiarda.  Recinto in cui non voglio stare._
 
 ![](../assets/img/genderedbrain/gen.png)
 
