@@ -10,7 +10,7 @@ category: Testuale
 ---
 
 <span style="text-transform: uppercase">
-Originalmente uscito su [Yanez Magazine](https://www.yanezmagazine.com/fassbinder-cinema-donne/).
+Pubblicato su [Yanez Magazine](https://www.yanezmagazine.com/fassbinder-cinema-donne/).
 </span>
 
 Era il 1945. Il Terzo Reich volgeva al termine. Klemperer, un filologo
