@@ -10,8 +10,10 @@ url: "https://boringandsad.githubio" # the base hostname & protocol for your sit
 # Author Settings
 author: Stefano Boring # add your name
 author-img: stefano-boring.jpg # add your photo
-about-author: Stefano Boring si occupa di arte digitale e non, scrive racconti e articoli. I temi che predilige vertono intorno alla disuguaglianza e alla categorizzazione.
+#about-author: la descrizione e' nel file _layouts/main.html
 social-instagram: ester_satomi
+social-email: stefanoboring@gmail.com
+social-tumblr: stefanoboring
 
 # Disqus
 discus-identifier: stefanoboring
@@ -21,27 +23,35 @@ analytics: # Google Analytics
 
 # Build Settings
 markdown: kramdown
+permalink: /:categories/:title
 plugins:
   - jekyll-paginate
 
-paginate: 20
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
-autopages:
+pagination:
   enabled: true
-  categories:
-    layouts:
-      - 'cat.html'
-    title: 'Posts in category :cat'
-    permalink: '/category/:cat'
-    slugify:
-      mode: 'default'
-      case: true
-  tags:
-    enabled: false
-  collections:
-    enabled: false
+  debug: false
+  per_page: 50
+  sort_reverse: true
+
+# autopages:
+#   enabled: true
+#   categories:
+#     layouts:
+#       - cat.html
+#     title: 'Posts in category :cat'
+#     permalink: '/category/:cat'
+#     slugify:
+#       mode: 'default'
+#       case: true
+#   tags:
+#     enabled: false
+#   collections:
+#     enabled: false
+
+paginate: 20
 
 
 sass:

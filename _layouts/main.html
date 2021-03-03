@@ -9,7 +9,9 @@ layout: default
         <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
       </div>
       <div class="author-name">{{site.author}}</div>
-      <p>{{site.about-author}}</p>
+      <p>
+Stefano Boring si occupa di arte digitale e non, scrive racconti e articoli. I temi che predilige vertono intorno alla <A HREF="https://boringandsad.github.io/facciaafaccia/">disuguaglianza</A> e alla categorizzazione.
+      </p>
     </div>
     <div>
       <ul style='list-style-type: none'></ul>
@@ -20,7 +22,7 @@ layout: default
     {% endfor %}
   {% else %}
     {% for category in categories_list %}
-        <div class="sidebar-category"> <a href="{{site.baseurl}}/category/{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a></div>
+        <div class="sidebar-category"> <a href="{{site.baseurl}}/{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a></div>
     {% endfor %}
   {% endif %}
 {% assign categories_list = nil %}
@@ -31,11 +33,15 @@ layout: default
       <h3 class="contact-title">Contact me</h3>
       <ul>
         {% if site.social-instagram %}
-        <li class="instagram"><a href="https://instagram.com/{{site.social-instagram}}"><i class="fa fa-instagram"></i></a></li>
+        <li class="instagram"><a target="_blank" href="https://instagram.com/{{site.social-instagram}}"><i class="fa fa-instagram"></i></a></li>
         {% endif %}
         {% if site.social-email %}
           <li class="email"><a href="mailto:{{site.social-email}}"><i class="fa fa-envelope-o"></i></a></li>
           {% endif %}
+        {% if site.social-tumblr %}
+          <li class="email"><a target="_blank" href="https://{{site.social-tumblr}}.tumblr.com"><i class="fa fa-tumblr"></i></a></li>
+          {% endif %}
+
       </ul>
     </section> <!-- End Section Contact -->
     <div class="copyright">

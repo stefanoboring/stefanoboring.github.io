@@ -4,10 +4,11 @@ title: Synecdoche2020
 date: 2020-08-27
 description: Video
 collaboration: Boring&Sad
-img: synecdoche2020/banner.png# Add image post (optional)
+img: synecdoche2020/banner.png # Add image post (optional)
 tags: [idolatria, BlackLivesMatter, culto di sé, stefanoboring, boring&sad]
 category: Visuale
 ---
+
 [Video](https://vimeo.com/484216242)
 
 
