@@ -17,7 +17,7 @@ layout: main
     <div class="wrap-content">
       <header class="header-page">
         <div class="page-category">
-          <a href="{{site.baseurl}}/category/{{ page.category }}">{{page.category}}</a> |
+          <a href="{{site.baseurl}}/{{ page.category | downcase }}">{{page.category}}</a> |
           <span class="page-date">{{page.date | date: '%Y, %b'}}&nbsp;&nbsp;&nbsp;&nbsp;</span>
         </div>
         <h1 class="page-title">{{page.title}}</h1>
