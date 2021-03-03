@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making up a Gendered Brain
+title: The Making up of the Gendered Brain
 date: 2021-02-28 13:32:20 +0300
 description: Foto
 img: genderedbrain/banner.png # Add image post (optional)
