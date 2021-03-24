@@ -10,7 +10,12 @@ pagination:
   {% else %}
   {% endif %}
     <div class="post-content">
-      <div class="post-category"><a href="{{site.baseurl}}/{{ post.category | downcase }}">{{post.category}}</a></div>
+      <div class="post-category"><a href="{{site.baseurl}}/{{ post.category | downcase }}">{{post.category}}</a>
+        {% if post.collaboration == 'Boring&Sad' %}
+        <span class="post-collaboration">{{post.collaboration}}</span>
+        {% endif %}
+      </div>
+      
     <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>    
       <p>{{ post.description | strip_html | truncatewords: 15 }}</p>
       <span class="post-date">{{post.date | date: '%Y, %b'}}</span>

@@ -1510,3 +1510,11 @@ img + em {
     font-weight: 700;
     text-transform: uppercase;
 }
+.post-collaboration {
+    text-transform: none;
+    float: right;
+    background: {{ page.backcolor }};
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;    
+}
