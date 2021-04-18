@@ -3,7 +3,7 @@ description: > # this means to ignore newlines until "baseurl:"
   writer/digitalartist
 permalink: ':title/'
 #baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://boringandsad.githubio" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://boringandsad.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author: Stefano Boring # add your name
@@ -33,21 +33,6 @@ pagination:
   debug: false
   per_page: 50
   sort_reverse: true
-
-# autopages:
-#   enabled: true
-#   categories:
-#     layouts:
-#       - cat.html
-#     title: 'Posts in category :cat'
-#     permalink: '/category/:cat'
-#     slugify:
-#       mode: 'default'
-#       case: true
-#   tags:
-#     enabled: false
-#   collections:
-#     enabled: false
 
 paginate: 20
 
