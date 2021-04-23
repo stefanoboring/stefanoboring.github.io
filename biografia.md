@@ -7,7 +7,7 @@ permalink: biografia
 <DIV ID="bio">
 <P>
 Stefano Boring si occupa di arte digitale, nuove tecnologie e
-scrittura. Dal 2018 collabora con la rivista YanezMagazine; nel 2013
+scrittura. Dal 2019 collabora con la rivista YanezMagazine; nel 2013
 ha fondato una startup che progetta nuove interfacce uomo-macchina;
 dal 2012 promuove lavori di arte relazionale con il coinvolgimento
 diretto delle persone soprattutto tramite l'uso della fotografia e
