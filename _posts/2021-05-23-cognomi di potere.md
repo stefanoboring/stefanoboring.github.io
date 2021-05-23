@@ -2,7 +2,7 @@
 layout: post
 title: Cognomi di Potere
 date: 2021-05-23 13:32:20 +0300
-description: "Lo studio dei cognomi è inscindibile dai meccanismi di potere; i cognomi sono legati a doppia mandata con la ricchezza e con la proprietà."
+description: "A chi appartieni?"
 img: cognomi/banner.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [yanezmagazine, potere, eredità, proprietà, cognomi, stefanoboring]
