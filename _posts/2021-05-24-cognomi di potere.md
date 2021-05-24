@@ -12,7 +12,8 @@ category: Testuale
 <span style="text-transform: uppercase">
 Originalmente uscito su [Yanez Magazine](https://www.yanezmagazine.com/cognome-cognomi-importanza/).
 </span>
-Illustrazioni di Ivano Talamo
+
+Copertina di Ivano Talamo
 
 “A chi appartieni?” Una domanda che gli anziani della città in cui sono cresciuta usavano rivolgere spesso ai bambini che giocavano in strada; la risposta corretta, nel mio caso, non era il mio cognome ma il cognome di mia nonna, appartenente a un nucleo conosciuto e riconosciuto. Mio padre, infatti veniva da un’altra città e il suo cognome non diceva niente a nessuno. Il nucleo di mia nonna invece era ben radicato, proprietari terrieri, con caratteristiche fisiche particolari, cui il comune aveva espropriato le terre e che con i soldi di quegli espropri avevano costruito due palazzine. Quel cognome dava molte informazioni: indicava il mio status socio-economico, il luogo esatto dove vivevo, il mio futuro aspetto fisico. La seconda domanda era: “A chi esattamente?” In famiglia di mia nonna erano infatti in molti, dieci fratelli e sorelle. Questa seconda risposta in genere non piaceva, appartenevo al lato sfortunato. Il marito di mia nonna era figlio illegittimo. La mia bisnonna aveva cresciuto i suoi due figli da sola, emarginata dalla famiglia per l’onta.  A quel punto il mio inquadramento era chiaro, oltre alle indicazioni suddette, avevo dato anche chiarimenti sulla mia credibilità. Presto imparai a fornire solo il mio cognome e a non aiutare l’interlocutore nella mia collocazione dando anche il dettaglio del cognome di mia nonna e mi trovai benissimo. Il cognome dice, infatti, molto di più e molto di meno di quello che pensiamo.
 
