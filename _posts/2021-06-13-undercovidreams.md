@@ -4,11 +4,16 @@ title: Undercovidreams
 date: 2009-12-19 13:32:20 +0300
 description: Collezione di sogni
 collaboration: Boring&Sad
-img: undercovidreams/banner.jpg # Add image post (optional)
+img: undercovidreams/banner.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [stefanoboring, covid19, lockdown2020, boring&sad, sogni]
 category: Visuale
 ---
+
+<span style="text-transform: uppercase">
+L'intero progetto è disponibile qui [Undercovidreams](https://boringandsad.github.io/undercovidreams/).
+</span>
+
 
 
 
