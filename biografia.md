@@ -27,7 +27,9 @@ rigidità della categorizzazione di genere.
 Esposizioni
 </span>
 
-2021, Guangzhou, Womanifesto
+2021, Biel, Photoforum PasquArt. Curated by 	Viviane Stucki & Roshan Adhihetty
+
+2021, Guangzhou, Womanifesto. Curated by Biljana Ciric
 
 2018, London, Mozilla Festival
 
