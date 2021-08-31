@@ -22,8 +22,7 @@ Con la stessa inaspettata foga con cui era arrivato, il cane se ne andò. E il r
 Quando il ragazzo gli sparò, scodinzolava.
 La signora che di sfuggita colse la scena dalla finestra poi disse, anche, che il ragazzo era un cane."_
 
-
-
+![](../assets/img/ilragazzoeilcane/ilragazzo.jpg)
 
 Un testo si presta a molte interpretazioni, ogni lettore ci troverà qualcosa di diverso. Se chi lo scrive, però, vuole dire una cosa e una sola questo causa molta frustrazione. La libera interpretazione per alcuni autori può essere un vantaggio, per altri una disgrazia. Sicuramente la lingua è di per sé un sistema ambiguo, d'altra parte il lettore spesso ha ansia di trovare se stesso nel testo e sovra interpreta quello che legge influenzato dal proprio schema valoriale.
 Invito chi legge il racconto a inviarmi un file mp3 in cui risponde a questa domanda: Perché il ragazzo uccide il cane?
