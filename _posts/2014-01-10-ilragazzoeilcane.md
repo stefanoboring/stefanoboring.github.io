@@ -3,9 +3,10 @@ layout: post
 title: Il ragazzo e il cane
 date: 2014-10-01 13:32:20 +0300
 description: "Perché il ragazzo uccide il cane?"
+collaboration: Boring&Sad
 img: ilragazzoeilcane/banner.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [scrittoriprecari,rapportidiforza, stefanoboring]
+tags: [scrittoriprecari,rapportidiforza, stefanoboring, public art]
 category: Testuale
 ---
 
