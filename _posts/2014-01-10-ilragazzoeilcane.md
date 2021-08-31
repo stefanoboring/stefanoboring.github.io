@@ -9,13 +9,6 @@ tags: [scrittoriprecari,rapportidiforza, stefanoboring]
 category: Testuale
 ---
 
-[Interpretazione Rosella ▶](https://files.fm/f/eehvf2wd4)
-
-
-
-
-
-
 <span style="text-transform: uppercase">
 Originalmente uscito su [Scrittori Precari](https://scrittoriprecari.wordpress.com/2014/01/10/il-ragazzo-e-il-cane/).
 </span>
@@ -28,3 +21,23 @@ Con la stessa inaspettata foga con cui era arrivato, il cane se ne andò. E il r
 Quando il ragazzo gli sparò, scodinzolava.
 
 La signora che di sfuggita colse la scena dalla finestra poi disse, anche, che il ragazzo era un cane.
+
+
+
+[Interpretazione Rosella ▶](https://files.fm/f/eehvf2wd4)
+
+[Interpretazione Pasquale ▶](https://files.fm/f/kf3uaq7f6)
+
+[Interpretazione ? ▶](https://files.fm/f/9cbcbbdss)
+
+[Interpretazione Aldo ▶](https://files.fm/f/cfx8f85eq)
+
+[Interpretazione Donatello ▶](https://files.fm/f/gg9549ncy)
+
+[Interpretazione Donato ▶](https://files.fm/f/ec4yb6tmu)
+
+[Interpretazione Federico ▶](https://files.fm/f/ty5gqfgex)
+
+[Interpretazione Luca ▶](https://files.fm/f/u3f5mqx7p)
+
+[Interpretazione Nicola ▶](https://files.fm/f/86ukg557v)
