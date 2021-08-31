@@ -9,6 +9,13 @@ tags: [scrittoriprecari,rapportidiforza, stefanoboring]
 category: Testuale
 ---
 
+[Interpretazione Rosella ▶](https://files.fm/f/eehvf2wd4)
+
+
+
+
+
+
 <span style="text-transform: uppercase">
 Originalmente uscito su [Scrittori Precari](https://scrittoriprecari.wordpress.com/2014/01/10/il-ragazzo-e-il-cane/).
 </span>
