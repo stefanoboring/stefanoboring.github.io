@@ -31,7 +31,7 @@ Esposizioni
 
 2021, Guangzhou, Academy of Fine Arts, "Trans-Southeast Asia Triennial". Curated by Biljana Ciric
 
-2018, London, Mozilla Festival
+2018, London, Royal Society of Arts, Mozilla Festival
 
 2017, Maratea, Maratea Film Festival
 
@@ -41,7 +41,7 @@ Esposizioni
 
 2016, Roma, Maker Faire
 
-2016, London, Mozilla Festival
+2016, London, Ravensbourne College, Mozilla Festival
 
 2013, Berlin, Directors Lounge Festival
 
