@@ -29,7 +29,7 @@ Esposizioni
 
 2021, Biel, Photoforum PasquArt. Curated by 	Viviane Stucki & Roshan Adhihetty
 
-2021, Guangzhou, Womanifesto. Curated by Biljana Ciric
+2021, Guangzhou,Trans-Southeast Asia Triennial. Artistic Directors: Wang Huangsheng, Hu bin and Chen Xiaoyang. Curator: Biljana Ciric
 
 2018, London, Mozilla Festival
 
@@ -37,7 +37,7 @@ Esposizioni
 
 2017, Milano, Galleria Gilda Artese. Edited by Alessandro Trabucco and Laura Luppi
 
-2017, Calitri, Sponz Festival directed by Vinicio Capossela. Video Projection by Tommaso Evangelista e Mariangela Capossela
+2017, Calitri, Sponz Festival directed by Vinicio Capossela.
 
 2016, Roma, Maker Faire
 
