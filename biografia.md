@@ -27,7 +27,7 @@ rigidità della categorizzazione di genere.
 Esposizioni
 </span>
 
-2021, Biel, Photoforum PasquArt. Curated by 	Viviane Stucki & Roshan Adhihetty
+2021, Biel, Photoforum PasquArt. Visual Exchange in Pandemic Times. Gender Roles in Your Daily Life. Curated by Viviane Stucki & Roshan Adhihetty
 
 2021, Guangzhou,Trans-Southeast Asia Triennial. Artistic Directors: Wang Huangsheng, Hu bin and Chen Xiaoyang. Curator: Biljana Ciric
 
