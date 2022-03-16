@@ -8,5 +8,6 @@ fig-caption: # Add figcaption (optional)
 tags: [miriam camerini, ebraismo, purim, reportage]
 category: Testuale
 ---
-Il reportage può essere letto su [CTRL magazine](https://www.ctrlmagazine.it/miriam-camerina-rabbina/)
+Il reportage può essere letto su [CTRL magazine](https://www.ctrlmagazine.it/miriam-camerina-rabbina/).
+
 Foto di copertina di Tiziano Demuro.
