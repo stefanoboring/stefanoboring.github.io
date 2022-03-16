@@ -3,7 +3,7 @@ layout: post
 title: Le scope del sistema
 date: 2021-11-08 13:32:20 +0300
 description: "Il lavoro domestico in Italia"
-img: lavorodomestico/banner.jpg # Add image post (optional)
+img: lavorodomestico/banner.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [yanezmagazine, lavoro domestico, potere, colf, badanti, babysitter, stefanoboring]
 category: Testuale
@@ -28,7 +28,7 @@ Colf, badanti, babysitter, governanti e non solo. Il numero complessivo, in Ital
 Di fatto partono da poco meno di seicentocinquanta euro per un addetto alle pulizie che vive presso la famiglia con cui lavora e arrivano a un massimo di mille e quattrocento euro per un assistente familiare con formazione specifica che garantisce assistenza notturna. Quando nel 2020 è tornato all’attenzione della politica il tema del salario minimo e si è proposto di fissarlo a nove euro l’ora, Lorenzo Gasparrini, segretario generale di Domina, ha dichiarato infattibile applicare un tale tariffario ai lavoratori domestici a causa dell’impossibilità per molte famiglie di corrispondere una cifra così alta, essendo sempre più spesso costituite da pensionati. Stipendi molto bassi e orario di lavoro molto lungo. Nel caso di assistenti residenti che lavorano a tempo pieno si parla di cinquantaquattro ore settimanali; un numero enorme se si pensa che il decreto legislativo che si occupa di orario di lavoro (n. 66 del 08.04.2003 ) fissa a quaranta ore l’orario normale. Nel lavoro domestico, inoltre, avere un contratto e beneficiare di queste regole è raro essendo un ambito in cui domina il sommerso (lavoro nero). Quando si parla di badanti che vivono con gli assistiti le cinquantaquattro ore settimanali vanno considerate per difetto, spesso queste persone finiscono per essere sempre in servizio, giorno e notte.
 Nonostante questo, dal rapporto badanti 2021, redatto dall’osservatorio Welforum, sembrerebbe, che le badanti non avvertono la propria condizione come intollerabile, sono invece soddisfatte della propria paga, del proprio lavoro e della propria condizione di vita.
 
-![](../assets/img/lavorodomestico/1.png)
+![](../assets/img/lavorodomestico/banner.jpg)
 
 Catia ha cinquantadue anni, due figli ventenni, un matrimonio quasi collassato e un diploma del liceo classico. Il marito è un ingegnere, spesso di stanza in Nigeria.
 Vivono in un comune dell’hinterland romano, di quelli piuttosto isolati e raggiunti da pochi mezzi pubblici. “Meglio così”,  mi dice un ragazzo con cui scambio qualche parola nel bar mentre sono in attesa di Catia, “Senza mezzi pubblici non arriva gentaccia”. In effetti i mezzi funzionano davvero male, Catia mi scrive scusandosi e mi raggiunge dopo un’ora abbondante, stanca, ma con aria battagliera.
