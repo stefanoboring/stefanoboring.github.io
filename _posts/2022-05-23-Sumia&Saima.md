@@ -18,11 +18,8 @@ Il mio racconto nasce da acquerelli semplici che raccontano una storia banale, s
 
 
 
-Sinossi
-The story is a reflection of how comparisons and competitions put love under pressure, making us feel constantly under performance.
-However, relationships are stronger than any poison, nothing is more important than finding people to love. Sometimes for the love of others one is willing to change and disguise, but it doesn't work, it just brings a great inner emptiness.
-The author invites you to accept yourself, not pay attention to comparisons, always love despite everything and never stop feeling loved.
-
+Sinossi:
+I confronti e le competizioni mettono sotto pressione l'amore, facendoci sentire costantemente sotto una gara. Le relazioni, però, devono imparare a essere più forti di qualsiasi veleno. Niente è più importante di trovare persone da amare e della sensazione di  sentirsi amati.
 
 
 ![](../assets/img/sumia&saima/uccelli.png)
