@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sumia&Saima.
-date: 2022-01-10 13:32:20 +0300
+date: 2022-05-23 13:32:20 +0300
 description: "A Short Happy Story"
 img: sumia&saima/banner.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
@@ -20,3 +20,5 @@ However, relationships are stronger than any poison, nothing is more important t
 The author invites you to accept yourself, not pay attention to comparisons, always love despite everything and never stop feeling loved.
 
 ![](../assets/img/sumia&saima/uccelli.png)
+
+Il progetto è stato presentato da Nilofar Akmut con il patrocinio del British Council e del The Prince's Trust di Londra.
