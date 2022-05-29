@@ -3,7 +3,7 @@ layout: post
 title: Sumia&Saima.
 date: 2022-05-23 13:32:20 +0300
 description: "A Short Happy Story"
-img: sumia&saima/banner.png # Add image post (optional)
+img: sumia&saima/banner.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Camel Library, Pakistan, Nilofar Akmut, Womanifesto]
 category: Visuale
