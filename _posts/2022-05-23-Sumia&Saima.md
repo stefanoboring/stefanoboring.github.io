@@ -19,7 +19,7 @@ Il mio racconto nasce da acquerelli semplici che raccontano una storia banale, s
 
 
 Sinossi:
-I confronti e le competizioni mettono sotto pressione l'amore, facendoci sentire costantemente sotto una gara. Le relazioni, però, devono imparare a essere più forti di qualsiasi veleno. Niente è più importante di trovare persone da amare e della sensazione di  sentirsi amati.
+i confronti e le competizioni mettono sotto pressione l'amore, facendoci sentire costantemente sotto una gara. Le relazioni, però, devono imparare a essere più forti di qualsiasi veleno. Niente è più importante di trovare persone da amare e della sensazione di  sentirsi amati.
 
 
 ![](../assets/img/sumia&saima/uccelli.png)
