@@ -6,7 +6,7 @@ permalink: ':title/'
 url: "https://boringandsad.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
-author: Stefano Boring # add your name
+author: Ester Vigilante # add your name
 author-img: stefano-boring.jpg # add your photo
 #about-author: la descrizione e' nel file _layouts/main.html
 social-instagram: ester_vigilante
