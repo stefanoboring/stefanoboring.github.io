@@ -18,6 +18,7 @@ racconti con la casa editrice Ibiskos.
 <P>
 Le tematiche che prediligo sono la disuguaglianza, la
 categorizzazione, il culto di sé e della personalità. 
+Fino a settembre 2022 ho firmato i miei lavori con il nome Stefano Boring.
 </P>
 </DIV>
 
