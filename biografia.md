@@ -6,20 +6,18 @@ permalink: biografia
 
 <DIV ID="bio">
 <P>
-Stefano Boring si occupa di arte digitale, nuove tecnologie e
-scrittura. Dal 2019 collabora con la rivista YanezMagazine; nel 2013
-ha fondato una startup che progetta nuove interfacce uomo-macchina;
-dal 2012 promuove lavori di arte relazionale con il coinvolgimento
+Mi occupo di arte digitale, nuove tecnologie e
+scrittura. Dal 2019 collaboro con la rivista YanezMagazine; nel 2013
+ho fondato una startup che progetta nuove interfacce uomo-macchina;
+dal 2012 promuovo lavori di arte relazionale con il coinvolgimento
 diretto delle persone soprattutto tramite l'uso della fotografia e
-della messaggistica audio; nel 2009 ha fondato il duo artistico
-Boring&Sad con l’illustratore Ivano Talamo e ha pubblicato un libro di
+della messaggistica audio; nel 2009 ho fondato il duo artistico
+Boring&Sad con l’illustratore Ivano Talamo e ho pubblicato un libro di
 racconti con la casa editrice Ibiskos.
 </P>
 <P>
-Le tematiche che predilige sono la disuguaglianza, la
-categorizzazione, il culto di sé e della personalità. Nata femmina, ha
-scelto di lavorare con un nome da maschio per porre l’accento sulla
-rigidità della categorizzazione di genere.
+Le tematiche che prediligo sono la disuguaglianza, la
+categorizzazione, il culto di sé e della personalità. 
 </P>
 </DIV>
 
