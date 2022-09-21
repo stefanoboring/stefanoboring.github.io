@@ -15,4 +15,4 @@ La falsa convinzione che scoperte e invenzioni possano essere attribuite al lavo
 Luce puntata sulla falsa costruzione, orecchie turate sulla distruzione.
 
 
-![](../assets/img/selfaggrendizer/gen.png)
+![](../assets/img/selfaggrendizer/1.png)
