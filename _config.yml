@@ -1,4 +1,4 @@
-title: Ester Vigilante
+title: Stefano Boring
 description: > # this means to ignore newlines until "baseurl:"
   writer/digitalartist
 permalink: ':title/'
@@ -6,11 +6,11 @@ permalink: ':title/'
 url: "https://estervigilante.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
-author: Ester Vigilante # add your name
+author: Stefano Boring # add your name
 author-img: stefano-boring.jpg # add your photo
 #about-author: la descrizione e' nel file _layouts/main.html
 social-instagram: ester_vigilante
-social-email: vigilanteester@gmail.com
+social-email: stefanoboring@gmail.com
 social-tumblr: stefanoboring
 
 # Disqus
