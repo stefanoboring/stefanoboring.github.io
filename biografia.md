@@ -7,24 +7,26 @@ permalink: biografia
 <DIV ID="bio">
 <P>
 Mi occupo di arte digitale, nuove tecnologie e
-scrittura. Dal 2019 collaboro con la rivista YanezMagazine; nel 2013
-ho fondato una startup che progetta nuove interfacce uomo-macchina;
+scrittura. Collaboro con la riviste YanezMagazine e CTRLmagazine;
 dal 2012 promuovo lavori di arte relazionale con il coinvolgimento
 diretto delle persone soprattutto tramite l'uso della fotografia e
-della messaggistica audio; nel 2009 ho fondato il duo artistico
+della messaggistica audio; nel 2009 ho co-fondato il duo artistico
 Boring&Sad con l’illustratore Ivano Talamo e ho pubblicato un libro di
 racconti con la casa editrice Ibiskos.
 </P>
 <P>
 Le tematiche che prediligo sono la disuguaglianza, la
-categorizzazione, il culto di sé e della personalità. 
-Fino a settembre 2022 ho firmato i miei lavori con il nome Stefano Boring.
+categorizzazione, il culto di sé e della personalità.
+Ho due nomi perché sono una persona queer, agender.
 </P>
 </DIV>
 
 <span style="text-transform: uppercase">
 Esposizioni
 </span>
+
+
+2022, Matera, Museo Archeologico Nazionale Ridola, "La Regina degli abissi". Sceneggiatura.  Curated by Annamaria Mauro & Laura D'Esposito
 
 2021, Biel, Photoforum PasquArt, "Visual Exchange in Pandemic Times". Curated by Viviane Stucki & Roshan Adhihetty
 
