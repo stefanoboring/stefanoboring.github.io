@@ -7,7 +7,7 @@ permalink: biografia
 <DIV ID="bio">
 <P>
 Mi occupo di arte digitale, nuove tecnologie e
-scrittura. Collaboro con la riviste YanezMagazine e CTRLmagazine;
+scrittura. Collaboro con le riviste YanezMagazine e CTRLmagazine;
 dal 2012 promuovo lavori di arte relazionale con il coinvolgimento
 diretto delle persone soprattutto tramite l'uso della fotografia e
 della messaggistica audio; nel 2009 ho co-fondato il duo artistico
