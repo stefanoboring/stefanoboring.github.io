@@ -12,4 +12,4 @@ category: Testuale
 <span style="text-transform: uppercase">
 Leggi su [Medium](https://medium.com/@stefanoboring/la-corsa-verso-la-disuguaglianza-1385727b6f0c).
 </span>
-Questo articolo è stato ultimato nel febbraio del 2022. Non è aggiornato.
+Questo articolo è stato ultimato all'inizio del 2022.
