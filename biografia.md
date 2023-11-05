@@ -25,8 +25,11 @@ Ho due nomi perché sono una persona queer, agender.
 Esposizioni
 </span>
 
+2023, Mantova, Parco Museo Virgilio Forte di Pietole. Installation Script.
 
-2022, Matera, Museo Archeologico Nazionale Ridola, "La Regina degli abissi". Sceneggiatura.  Curated by Annamaria Mauro & Laura D'Esposito
+2023, Bangkok, Bangkok Art and Culture Centre, directed by Nilofar Akmut.
+
+2022, Matera, Museo Archeologico Nazionale Ridola, "La Regina degli abissi".Installation Script.  Curated by Annamaria Mauro & Laura D'Esposito
 
 2021, Biel, Photoforum PasquArt, "Visual Exchange in Pandemic Times". Curated by Viviane Stucki & Roshan Adhihetty
 
