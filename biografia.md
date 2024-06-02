@@ -17,7 +17,7 @@ racconti con la casa editrice Ibiskos.
 <P>
 Le tematiche che prediligo sono la disuguaglianza, la
 categorizzazione, il culto di sé e della personalità.
-Ho due nomi perché sono una persona queer, agender.
+Ho due nomi perché sono una persona non binaria.
 </P>
 </DIV>
 
