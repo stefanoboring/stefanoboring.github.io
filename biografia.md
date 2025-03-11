@@ -7,7 +7,7 @@ permalink: biografia
 <DIV ID="bio">
 <P>
 Mi occupo di arte digitale, nuove tecnologie e
-scrittura. Collaboro con le riviste YanezMagazine e CTRLmagazine;
+scrittura. Collaboro con le riviste YanezMagazine e CTRLmagazine; sono nella redazione dell'East Journal;
 dal 2012 promuovo lavori di arte relazionale con il coinvolgimento
 diretto delle persone soprattutto tramite l'uso della fotografia e
 della messaggistica audio; nel 2009 ho co-fondato il duo artistico
@@ -25,7 +25,11 @@ Ho due nomi perché sono una persona non binaria.
 Esposizioni
 </span>
 
-2023, Mantova, Parco Museo Virgilio Forte di Pietole. Installation Script.
+2024, Piancastagnaio,Rocca Aldobrandesca, "Ludus.La maschera e la vertigine. Curated by Alessandro Bellucci.
+
+2024, Rapolano Terme (Siena), Yurta, "Del Ludico dunque gioco". Curated by Alessandro Bellucci.
+
+2023, Mantova, Parco Museo Virgilio Forte di Pietole. Curated by Giordano Bruno Guerri
 
 2023, Bangkok, Bangkok Art and Culture Centre, directed by Nilofar Akmut.
 
