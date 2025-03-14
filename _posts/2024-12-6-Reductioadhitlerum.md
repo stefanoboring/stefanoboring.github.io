@@ -1,15 +1,19 @@
 ---
 layout: post
-title: Synecdoche2020
-date: 2020-08-27
-description: Video
-collaboration: Boring&Sad
-img: synecdoche2020/banner.png # Add image post (optional)
-tags: [idolatria, BlackLivesMatter, culto di sé, stefanoboring, boring&sad]
+title: Reductio ad Nazium
+date: 2024-12-06
+description:
+collaboration:
+img: reductioadnazium/banner.png # Add image post (optional)
+tags: [ pensaconlapancia,reductioadnazium ,stefanoboring]
 category: Visuale
 ---
 
-[Video ▶](https://vimeo.com/484216242)
+![](../assets/img/reductioadnazium/gen.png)
 
 
-Statue che vengono abbattute, statue che vengono costruite, statue dimenticate, ricoperte dagli escrementi degli uccelli, statue di cui vergognarsi e statue da recuperare. Ha senso costruire una statua? Ha senso pietrificare un essere umano e costringerlo a essere il simbolo di un’idea? Ha senso innalzare un essere umano sopra tutti gli altri e metterlo a loro modello? Inoltre ha senso fare una statua a un’idea? Cercare cioè di fermare un pensiero e renderlo fisso? Sineddoche è una riflessione sulle statue suddivisa in tre capitolI. Il primo è un gioco ironico sul bisogno compulsivo di costruire statue; durante le proteste di Black lives matter del 2021 negli stati uniti diverse statue di schiavisti sono state abbattute. Il pensiero collettivo andava subito a come sostituire la statua eliminata. La soluzione era trovare una persona degna a cui costruire la statua. Ma esisterà questa persona degna? O chiunque in quanto essere umano ha una parte oscura o non condivisibile per cui la sua statua finirà per gratificare alcuni e ferire altri? Il secondo capitolo apre la riflessione sul culto della personalità; sulla bugia insita nell’attribuire a uno solo il merito di qualcosa; sulla tradizione che ci ha portati a pensare la storia come le azioni e le decisioni di singoli esseri umani e non di gruppi. Probabilmente in un tentativo di semplificazione troppo spesso pericoloso (che ha come estrema conseguenza l’esaltazione di singoli con personalità megalomani). Il terzo capitolo è una rilettura dei dieci comandamenti nella loro versione originaria tratta dal deuteronomio. “non ti farai alcuna scultura (6) né immagine qualsiasi di tutto quanto esiste in cielo al di sopra o in terra al di sotto o nelle acque al di sotto della terra” Cosa significa? Perché proibire le sculture e le immagine? Lo scrittore Dov Elbaum indaga il senso di questa proibizione e suggerisce che significhi non fermarsi.  Fermare la parola, le idee, esaltare una particolare situazione, nascondono il tentativo di provare a rimanerci per sempre. Ma esiste anche una sola idea che non ammette il suo superamento? La paura delle statue, dell’esaltazione di una idea altro non è, quindi, che la paura di bloccarsi, di pietrificarsi e di non andare avanti.Un mondo pieno di statue è un mondo che tende a replicarsi sempre uguale a se stesso.
+“Verso la fine del periodo che trascorsi lavorando in fabbrica, nella casa degli ebrei mi imbattei in un romanzo di Georg Hermann ‘Morte di un’epoca’. Il libro, edito dall’associazione libraria ebraica, nella sua concezione risentiva già fortemente dell’influenza del nazismo in ascesa. Non so per quale ragione nel mio diario manchi un esame più particolareggiato di tutta l’opera; mi ero annotato solo una situazione, una frase ‘La moglie di Gumpert abbandona in fretta la cappella del cimitero prima che inizi la cerimonia funebre per l’amante del marito e il suo seguito [Gefolgschaft], con minor fretta ma tuttavia sollecito, fa precisamente quello che deve fare un seguito, la segue’. Allora interpretai la frase come pura e semplice ironia, quell’ironia ebraica così odiosa ai nazisti perché mette in luce le ipocrisie del sentimento; mi dissi: l’autore ‘punge’, per così dire, la parola gonfiata facendola afflosciare miseramente. Oggi giudico diversamente questo passo, credo che in esso domini non l’ironia ma una profonda amarezza. Infatti, in cosa consistevano lo scopo ultimo e il successo di tutto quel sentimentalismo gonfiato all’eccesso? Il sentimento in sé e per sé non ne era lo scopo, il fine, era solo un mezzo, un tramite. Il sentimento doveva soppiantare il pensiero, doveva lasciare il posto a una condizione di ottuso stordimento, di abulia e insensibilità; come altrimenti si sarebbe riusciti a reclutare l’indispensabile massa di aguzzini e torturatori? Cosa fa una perfetta Gefolgschaft? Non pensa e nemmeno più prova un sentimento: segue.”
+
+
+LTI- La lingua del terzo Reich. Taccuino di un filologo
+Victor Klemperer
