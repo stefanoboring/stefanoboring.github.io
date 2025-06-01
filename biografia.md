@@ -25,7 +25,7 @@ Ho due nomi perché sono una persona non binaria.
 Esposizioni
 </span>
 
-2024, Piancastagnaio,Rocca Aldobrandesca, "Ludus.La maschera e la vertigine. Curated by Alessandro Bellucci.
+2024, Piancastagnaio, Rocca Aldobrandesca, "Ludus.La maschera e la vertigine. Curated by Alessandro Bellucci.
 
 2024, Rapolano Terme (Siena), Yurta, "Del Ludico dunque gioco". Curated by Alessandro Bellucci.
 
