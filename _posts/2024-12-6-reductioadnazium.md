@@ -4,7 +4,7 @@ title: Reductio ad Nazium
 date: 2024-12-06
 description:
 collaboration:
-img: reductioadnazium/banner.png # Add image post (optional)
+img: reductioadnazium/banner.jpg # Add image post (optional)
 tags: [ pensaconlapancia,reductioadnazium ,stefanoboring]
 category: Visuale
 ---
